@@ -1,4 +1,8 @@
 
+# How to install it in your android device?
+
+I have attached the apk file. 
+Download the apk file in your device and install it. 
 
 # How to Run this Project in Android Studio? 
 You should Download ZIP or clone the Repo to your computer. 
